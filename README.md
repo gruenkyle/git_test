@@ -1,2 +1,3 @@
 # git_test
-Odin Project git test through command line interfaces
+First text document uploaded from CLI 
+Hello Odin! 
